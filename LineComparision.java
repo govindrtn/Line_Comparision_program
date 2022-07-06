@@ -24,7 +24,6 @@ public class LineComparision {
 		}else {
 			System.out.println("Both lines " + lineLength_1 + " are equal " + lineLength_2 );
 		}
-		
 	}
 	public static void main(String[] args) {
 		LineComparision();
